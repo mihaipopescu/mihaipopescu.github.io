@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Mihai Popescu
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email: salut@mihaip.com
+copyright_name: Mihai Popescu
+description: "Professional and Personal Blog"
+baseurl: ""
+url: "http://mihaip.ro"
+twitter_username: mr_mihaipopescu
+github_username:  mihaipopescu
+facebook_username:  mr.mihaipopescu
+email_username:  salut@mihaip.ro
 
 # Build settings
 markdown: kramdown
